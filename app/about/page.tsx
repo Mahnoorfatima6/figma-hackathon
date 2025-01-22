@@ -85,7 +85,7 @@ const About = () => {
           ].map((item, index) => (
             <div
               key={index}
-              className="bg-gray-200 w-72 h-auto rounded-sm px-6 py-8 text-center"
+              className="bg-gray-200 w-72 h-auto rounded-sm px-7 py-8 text-center"
             >
               <img
                 src={item.img}
